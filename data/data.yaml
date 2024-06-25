@@ -1,0 +1,5 @@
+train: /home/dzimmerman2021/Documents/Fish4Knowledge/data-new/train/images
+val: /home/dzimmerman2021/Documents/Fish4Knowledge/data-new/val/images
+
+nc: 23  # number of classes
+names: ['Dascyllus reticulatus', 'Plectroglyphidodon dickii', 'Chromis chrysura', 'Amphiprion clarkii', 'Chaetodon lunulatus', 'Chaetodon trifascialis', 'Myripristis kuntee', 'Acanthurus nigrofuscus', 'Hemigymnus fasciatus', 'Neoniphon sammara', 'Abudefduf vaigiensis', 'Canthigaster valentini', 'Pomacentrus moluccensis', 'Zebrasoma scopas', 'Hemigymnus melapterus', 'Lutjanus fulvus', 'Scolopsis bilineata', 'Scaridae', 'Pempheris vanicolensis', 'Zanclus cornutus', 'Neoglyphidodon nigroris', 'Balistapus undulatus', 'Siganus fuscescens']
